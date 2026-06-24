@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Information Science Engineering (7th Semester)
+- 🎓 Information Science Engineering
 - 💻 Python, SQL, Flask
 - 📊 Power BI & Data Analytics
 - 🤖 Building AI Applications with LangChain & RAG
