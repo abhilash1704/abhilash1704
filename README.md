@@ -1,16 +1,48 @@
-# Hi 👋, I'm Abhilash
+<h1 align="center">Hi 👋, I'm Abhilash</h1>
 
-## Python Developer | Data Analyst | GenAI Enthusiast
+<h3 align="center">Python Developer | Data Analyst | Generative AI Enthusiast</h3>
 
-- 🎓 Information Science Engineering
+---
+
+### 🚀 About Me
+
+- 🎓 Information Science Engineering (7th Semester)
 - 💻 Python, SQL, Flask
 - 📊 Power BI & Data Analytics
-- 🤖 Generative AI Projects
+- 🤖 Building AI Applications with LangChain & RAG
+- 🌱 Currently learning Generative AI
 
-### Connect with me
+---
 
-[LinkedIn](https://linkedin.com)
+### 🛠️ Tech Stack
 
-### Languages and Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,mysql,git,github,vscode" />
+</p>
 
-Python | SQL | Flask | Power BI | Git | GitHub
+---
+
+### 📌 Featured Projects
+
+#### Codebase AI Assistant
+- GenAI + LangChain + Qdrant + FastAPI
+- Repository-aware code assistant using RAG
+
+#### PlaceValue
+- React + TypeScript + Tailwind CSS
+- Modern frontend application
+
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=abhilash1704&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash1704&layout=compact)
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/your-linkedin
+- Email: your-email@gmail.com
