@@ -22,15 +22,7 @@
 
 ---
 
-### 📌 Featured Projects
 
-#### Codebase AI Assistant
-- GenAI + LangChain + Qdrant + FastAPI
-- Repository-aware code assistant using RAG
-
-#### PlaceValue
-- React + TypeScript + Tailwind CSS
-- Modern frontend application
 
 ---
 
@@ -44,5 +36,5 @@
 
 ### 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/your-linkedin
-- Email: your-email@gmail.com
+- LinkedIn: www.linkedin.com/in/abhilash-c-m-059ba02a1
+- Email: cmabhilash174@gmail.com
